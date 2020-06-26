@@ -1,0 +1,2 @@
+# WMBlog
+Static Blog
